@@ -1,12 +1,6 @@
 {
   "plants": [
     {
-      "id": 1,
-      "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
-    },
-    {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
@@ -41,6 +35,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Snake Plant 2",
+      "image": "https://asset.bloomnation.com/c_limit,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1605832238/vendor/5422/catalog/product/2/0/20201119042900_file_5fb69d4c6746d_5fb69da1328aa.jpg",
+      "price": 9.25,
+      "id": 9
+    },
+    {
+      "name": "Snake Plant 3",
+      "image": "https://asset.bloomnation.com/c_limit,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1605832238/vendor/5422/catalog/product/2/0/20201119042900_file_5fb69d4c6746d_5fb69da1328aa.jpg",
+      "price": 9.45,
+      "id": 10
     }
   ]
 }
